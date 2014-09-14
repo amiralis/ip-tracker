@@ -1,2 +1,2 @@
-ip-tracker
+IP Tracker
 ==========
